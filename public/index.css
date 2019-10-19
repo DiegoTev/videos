@@ -1,0 +1,20 @@
+h1 {
+  text-align: center;
+  font-weight: 10000;
+  color: rgba(20, 19, 19, 0.815);
+  font-family: "Abril Fatface", cursive !important;
+}
+
+.mainpage {
+  background: #70e1f5; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #81cfc5,
+    #71c1cf
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #7fc079,
+    #8ed6e2
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
