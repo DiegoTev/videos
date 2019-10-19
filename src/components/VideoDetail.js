@@ -3,7 +3,7 @@ import React from "react";
 const VideoDetail = ({ video }) => {
   if (!video) {
     return <div>
-      <h3>Hmm..Sorry, no results for that. Try again!</h3>
+      <h4>No results found..</h4>
            </div>;
   }
 
